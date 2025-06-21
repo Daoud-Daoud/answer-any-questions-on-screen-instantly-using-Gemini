@@ -1,0 +1,4 @@
+keyboard
+requests
+Pillow
+win10toast
