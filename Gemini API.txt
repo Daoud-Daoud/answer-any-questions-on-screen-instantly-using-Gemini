@@ -1,0 +1,22 @@
+"""
+To get a Gemini API Key, you'll primarily use Google AI Studio. Here's a step-by-step guide:
+
+Log in to your Google account: Make sure you're signed in with the Google account you want to use for the Gemini API.
+
+Visit Google AI Studio: Go to the Google AI Studio website (usually aistudio.google.com).
+
+Accept Terms of Service: If it's your first time visiting, you'll likely be prompted to review and accept the Google APIs Terms of Service and Gemini API Additional Terms of Service. Check the required boxes and click "Continue."
+
+Find the "Get API key" option: On the Google AI Studio page, look for a "Get API key" button or tab. It's often prominently displayed.
+
+Create your API key:
+
+Click on "Create API key."
+You'll then have the option to create the API key in a new project or an existing project. Choose the option that suits your needs.
+Once you've made your selection, your Gemini API key will be auto-generated and displayed.
+Securely store your API key: This is a crucial step! Your API key grants access to your project's quota and potentially billed services.
+
+Do not hardcode it directly into your application's source code.
+Do not check it into source control (like Git repositories).
+It's highly recommended to store it as an environment variable or in a secure configuration management system.
+"""
